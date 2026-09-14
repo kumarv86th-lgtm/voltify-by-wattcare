@@ -4,7 +4,7 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title>Voltify by WattCare | Electrical Service in Sanand & Ahmedabad</title>
+<title>Voltify by WattCare | Electrical Service in Sanand & Hirapur</title>
 
 <meta name="description" content="Voltify by WattCare provides reliable electrical services for homes, shops and small commercial spaces in Sanand and Ahmedabad.">
 
